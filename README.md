@@ -9,7 +9,7 @@ C# | C++
 .NET/.NET Core | ASP.NET Core | Entity Framework Core | C++
 
 #### Databases ####
-MS SQL | MySQL
+MS SQL | MySQL | SQLite
 
 #### Operating systems ####
 Windows | Linux | FreeBSD
